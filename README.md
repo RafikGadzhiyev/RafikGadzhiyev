@@ -1,5 +1,3 @@
 # Hello everyone!
 
-- 👋 Hi, I’m @RafikGadzhiyev
-- 👀 I’m interested in Web-development
-- 🌱 I’m currently learning JavaScript and JavaScript libraries
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RafikGadzhiyev&count_private=true&theme=tokyonight&showicons=true)]()
